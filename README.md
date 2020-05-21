@@ -1,4 +1,4 @@
-## Paso para la instalacion y configuracion del proyecto 
+## Paso para la instalación y configuración del proyecto 
 
 1. instalar servidor web (xammp o wampp).
 2. descargar proyecto
@@ -11,8 +11,8 @@
 
 ## Usuario de sesion administrativo
 
-usuario=jj@gmail.com
-clave=123
+Usuario=jj@gmail.com
+Clave=123
 
 
 
