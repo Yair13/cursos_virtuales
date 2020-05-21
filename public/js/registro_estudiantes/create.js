@@ -15,7 +15,7 @@ $(document).ready(function () {
             },
             complete:function(data){
      
-                btnEnviar.val("ENVIAR INFOMRACION");
+                btnEnviar.val("ENVIAR INFORMACIÓN");
                 btnEnviar.removeAttr("disabled");
                 
             },

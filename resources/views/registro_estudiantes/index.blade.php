@@ -56,7 +56,7 @@
 
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="form-group">
-                    <input type="submit" class="btn btn-info" name="btnEnviar" id="btnEnviar" value="ENVIAR INFOMRACION" >
+                    <input type="submit" class="btn btn-info" name="btnEnviar" id="btnEnviar" value="ENVIAR INFORMACIÓN" >
                   </div>
               </div>
 
